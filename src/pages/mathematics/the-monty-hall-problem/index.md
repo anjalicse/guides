@@ -17,7 +17,7 @@ This is a stub. <a href='https://github.com/freecodecamp/guides/tree/master/src/
 
 The Monty Hall Problem is a counter-intuitive puzzle based on _Probability._ 
 
-** The Puzzle: **
+**The Puzzle:**
 
 
 Suppose you're on a game show, and you're given the choice to select "ONE" of the three doors. Whichever door you will select and open, you will get the prize behind that door.
@@ -26,7 +26,7 @@ Suppose you're on a game show, and you're given the choice to select "ONE" of th
  
  * You will select one door and before opening that door, the host will open one of the other two doors which contains a goat.
 
-* The host will give you a second chance to think about your choice. -"'_To Swap_' to the other unopened door." or "'_To Stick_ 'to the same door".
+* The host will give you a second chance to think about your choice. -" '_To Swap_' to the other unopened door." or " '_To Stick_' to the same door".
 
 ### QUESTION :
 What you should choose - "_To Swap_" or "_To Stick_" to maximize your chances of winning the car?
