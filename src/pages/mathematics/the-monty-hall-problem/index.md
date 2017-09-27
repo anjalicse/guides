@@ -14,9 +14,11 @@ This is a stub. <a href='https://github.com/freecodecamp/guides/tree/master/src/
 
 
 # The Monty Hall Problem
-## The Monty Hall Problem
-#### The Monty Hall Problem
-##### The Monty Hall Problem
+
+The Monty Hall Problem is a counter-intuitive puzzle based on _Probability._ 
+
+**The Puzzle:**
+Suppose you are on.
 
 
 
