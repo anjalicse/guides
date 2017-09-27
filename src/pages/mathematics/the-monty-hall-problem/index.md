@@ -35,7 +35,7 @@ What you should choose - _"To Swap"_ or  _"To Stick"_  to maximize your chances 
  
 ## General Misconception:
 
-It seems like "Swap" or "Unswap" does not make any difference. As the host has already shown the one goat, therefore the other two doors conceal one goat and one car. Selecting any one will have a 50-50 probability or 1/2 probability of selecting a car.(Selecting one out of two choices).
+It seems like "Swap" or "Unswap" does not make any difference. As the host has already shown the one goat, therefore the other two doors conceal one goat and one car. Selecting any one will have a 50-50 probability or 1/2 probability of selecting a car. (Selecting one out of two choices).
 
 However this is not correct!!!
 
@@ -60,10 +60,10 @@ Case 2 : Selecting a car in the first round with a probability of 1/3 . (Selecti
 There can be two cases in this:
 
 Case 1 : Selecting a goat in the first round with a probability of 2/3 . (Selecting a goat out of 2 goats and 1 car) and then `To Swap`
-Swapping will lead you to win the car. (As the other unopened door will surely conceal the car) 
+Swapping will lead you to win the car (As the other unopened door will surely conceal the car).
 
-Case 2 : Selecting a car in the first round with a probability of 1/3 . (Selecting a car out of 2 goats and 1 car) and then `To swap` 
-Swapping will lead you to the goat. (As the other unopened door will surely conceal the goat)
+Case 2 : Selecting a car in the first round with a probability of 1/3 . (Selecting a car out of 2 goats and 1 car) and then `To Swap` 
+Swapping will lead you to the goat (As the other unopened door will surely conceal the goat).
 
 ```Therefore chance of winning a car by swapping is 2/3.```
 
