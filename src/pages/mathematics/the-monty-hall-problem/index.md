@@ -17,19 +17,19 @@ This is a stub. <a href='https://github.com/freecodecamp/guides/tree/master/src/
 
 The Monty Hall Problem is a counter-intuitive puzzle based on _Probability._ 
 
-**The Puzzle:**
+** The Puzzle: **
 
-_"Suppose you're on a game show, and you're given the choice of three doors: Behind one door is a car; behind the others, goats. You pick a door, say No. 1, and the host, who knows what's behind the doors, opens another door, say No. 3, which has a goat. He then says to you, "Do you want to pick door No. 2?" Is it to your advantage to switch your choice?
 
-_"Suppose you're on a game show, and you're given the choice to select "ONE" of the three doors. Whichever door you will select and open, you will get the prize behind that door.
+Suppose you're on a game show, and you're given the choice to select "ONE" of the three doors. Whichever door you will select and open, you will get the prize behind that door.
  
  * Behind one door is a car and behind the others have a goat each. You are not aware of which door conceals what but the host "Monty" knows.
  
  * You will select one door and before opening that door, the host will open one of the other two doors which contains a goat.
 
-* The host will give you a second chance to think about your choice. -"_To Swap_ to the other unopened door." or "_To Stick_ to the same door".
+* The host will give you a second chance to think about your choice. -"'_To Swap_' to the other unopened door." or "'_To Stick_ 'to the same door".
 
-###QUESTION : What you should choose - "_To Swap_" or "_To Stick_" to maximize your chances of winning the game ?
+### QUESTION :
+What you should choose - "_To Swap_" or "_To Stick_" to maximize your chances of winning the car?
  
 
 
