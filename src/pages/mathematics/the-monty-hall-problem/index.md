@@ -67,7 +67,7 @@ Swapping will lead you to the goat (As the other unopened door will surely conce
 
 ```Therefore chance of winning a car by swapping is 2/3.```
 
-So, We should always ` Swap ` to maximize our chance of winning a car.
+So, We should always select `To Swap ` to maximize our chance of winning a car.
 
   
 
