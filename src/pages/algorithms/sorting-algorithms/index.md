@@ -15,8 +15,8 @@ Sorting is one of the important algorithm in Computer Science and is greatly use
 
 ### Some Common Sorting Algorithms :
 
-#### * Selection Sort
-#### * Bubble Sort
+##### * Selection Sort
+_* Bubble Sort_
 #### * Insertion Sort
 #### * Merge Sort
 #### * Quick Sort
