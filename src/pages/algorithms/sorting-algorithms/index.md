@@ -4,7 +4,7 @@ title: Sorting Algorithms
 # Sorting Algorithms
 
 Sorting algorithms are the set of instructions which takes an array or list as a input and perform certain task to arrange its elements into a sorted order.
-The order may be Ascending or Descending as per our requirnment.
+The order may be Ascending or Descending as per our requirement.
 
 _`A sorting algorithm takes a list as a input and outputs a permutation of that list which is sorted.`_
 
@@ -35,7 +35,7 @@ The sorting algorithms can be categorised on the basis of number of times the sw
 
 ##### 2. Based on Number of Comparisons
 The sorting algorithms can be categorised on the basis of number of times the comparison of elements has done to sort the array.  
-Any sorting algorithm require atleast `O(nlogn) comparison in the best case` and `O(n^2) comparisons in the worst case` for most of the outputs.
+Any sorting algorithm requires atleast `O(nlogn) comparison in the best case` and `O(n^2) comparisons in the worst case` for most of the outputs.
 
 ##### 3. Based on Recursion or Non-Recursion
 
