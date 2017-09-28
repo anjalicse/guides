@@ -3,7 +3,7 @@ title: Sorting Algorithms
 ---
 # Sorting Algorithms
 
-Sorting algorithms are the set of instruction which takes an array or list as a input and perform certain task to arrange its elements into a sorted order.
+Sorting algorithms are the set of instructions which takes an array or list as a input and perform certain task to arrange its elements into a sorted order.
 The order may be Ascending or Descending as per our requirnment.
 
 _`A sorting algorithm takes a list as a input and outputs a permutation of that list which is sorted.`_
@@ -31,11 +31,11 @@ Sorting is one of the important algorithm in Computer Science and is greatly use
 The Sorting algorithms can be categorized on the basis of following parameters:
 #### 1. Based on Number of Swaps /Inversion
 The sorting algorithms can be categorised on the basis of number of times the swapping of elements has done to sort the array.  
-Selection Sort requires minimum number of swaps.
+`Selection Sort` requires minimum number of swaps.
 
 ##### 2. Based on Number of Comparisons
 The sorting algorithms can be categorised on the basis of number of times the comparison of elements has done to sort the array.  
-Any sorting algorithm require atleast O(nlogn) comparison in the best case and O(n^2) in worst case for most of the outputs.
+Any sorting algorithm require atleast `O(nlogn) comparison in the best case` and `O(n^2) comparisons in the worst case` for most of the outputs.
 
 ##### 3. Based on Recursion or Non-Recursion
 
@@ -47,5 +47,5 @@ Any sorting algorithm require atleast O(nlogn) comparison in the best case and O
 
 Sorting algorithm are said to be `stable` if the algorithm maintains the relative order of elements with equal keys. i.e. the equivalent elements remain in same order in the sorted array as they were in the input array.
 * `Insertion sort`, `Merge Sort`, `Bubble Sort` are stable in nature.
-* `Heap Sort` , `Quick Sort` are not stble in nature.
+* `Heap Sort` , `Quick Sort` are not stable in nature.
 
