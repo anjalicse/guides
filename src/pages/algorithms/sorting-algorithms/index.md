@@ -15,15 +15,15 @@ Sorting is one of the important algorithm in Computer Science and is greatly use
 
 ### Some Common Sorting Algorithms :
 
-##### * Selection Sort
-_* Bubble Sort_
-#### * Insertion Sort
-#### * Merge Sort
-#### * Quick Sort
-#### * Heap Sort
-#### * Counting Sort
-#### * Radix Sort
-#### * Bucket Sort
+##### * _Selection Sort_
+##### * _Bubble Sort_
+##### * _Insertion Sort_
+##### * _Merge Sort_
+##### * _Quick Sort_
+##### * _Heap Sort_
+##### * _Counting Sort_
+##### * _Radix Sort_
+##### * _Bucket Sort_
 
 
 ## Classification of Sorting Algorithm :
