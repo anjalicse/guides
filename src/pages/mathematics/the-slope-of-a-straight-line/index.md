@@ -3,13 +3,13 @@ title: The Slope of a Straight Line
 ---
 ## The Slope of a Straight Line
 
-This is a stub. <a href='https://github.com/freecodecamp/guides/tree/master/src/pages/mathematics/the-slope-of-a-straight-line/index.md' target='_blank' rel='nofollow'>Help our community expand it</a>.
+The slope of a straight line is the measure of "steepness", usually denoted by the letter m. It is the change in y for a unit change in x along the line.
 
-<a href='https://github.com/freecodecamp/guides/blob/master/README.md' target='_blank' rel='nofollow'>This quick style guide will help ensure your pull request gets accepted</a>.
+##### `m = dy/dx = tan(θ)`
 
-<!-- The article goes here, in GitHub-flavored Markdown. Feel free to add YouTube videos, images, and CodePen/JSBin embeds  -->
+where θ is the angle of inclination of line.
 
-#### More Information:
-<!-- Please add any articles you think might be helpful to read before writing the article -->
+#### For a line passing through two points whose co-ordinate is given as (x0,y0) and (x1,y1)
+The slope of straight line is given as : 
 
-
+##### `m=(y1-y0)/(x1-x0)`
