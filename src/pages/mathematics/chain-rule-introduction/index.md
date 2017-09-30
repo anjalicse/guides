@@ -40,7 +40,7 @@ We can directly apply the formula F'(x) = f'(g(x)).g'(x) = cos(ax+b) . a
 
 ### For a function composite of more than two function :
 
-Let _F_ be a real valued function which is a composite of two functions _r s t u_  i.e `F(x)=r(s(t(u(x))))` and all the functions _r(x) s(x) t(x) u(x)_ are differentiable.
+Let _F_ be a real valued function which is a composite of four functions _r s t u_  i.e `F(x)=r(s(t(u(x))))` and all the functions _r(x) s(x) t(x) u(x)_ are differentiable.
 Let the derivative D{F(x)} is denoted as F'(x).
 
 By Chain Rule, 
@@ -48,13 +48,13 @@ By Chain Rule,
 
 Suppose, a = u(x), b = t(a), c = s(b) then F(x)=r(s(t(u(x)))) can be re-written as F(x)=r(c) 
 
-then, F(x)=r(c) => d(F)/dx = dr/dc . dc/dx                 (eqn 1)
+then, F(x)=r(c) => d(F)/dx = dr/dc . dc/dx                ___ (eqn 1)
 
-c = s(b) => dc/dx = ds/db . db/dx                          (eqn 2)
+c = s(b) => dc/dx = ds/db . db/dx                          ___ (eqn 2)
 
-b = t(a) => db/dx = dt/da . da/dx                          (eqn 3)
+b = t(a) => db/dx = dt/da . da/dx                          ___ (eqn 3)
 
-a = u(x) => da/dx = du/dx                                  (eqn 4)
+a = u(x) => da/dx = du/dx                                  ___ (eqn 4)
 
 Putting the value of eqn 2 3 4 in eqn 1, we will get :
 
