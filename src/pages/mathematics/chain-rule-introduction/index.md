@@ -9,4 +9,4 @@ Let _F_ be a real valued function which is a composite of two functions _u_ and 
 Let the derivative D{F(x)} is denoted as F'(x).
 
 By Chain Rule, 
- ### `_F'(x) = u'(v(x)).v'(x)_`
+_### `F'(x) = u'(v(x)).v'(x)`_
