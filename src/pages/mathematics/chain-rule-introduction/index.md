@@ -1,11 +1,11 @@
 ---
 title: Chain Rule Introduction
 ---
-## Chain Rule Introduction
+# Chain Rule Introduction
 
 `Chain Rule is used to compute derivative of a composition of functions.`
 
-Let _F_ be a real valued function which is a composite of two functions _f_ and _g_  i.e `F(x) = f(g(x))`and both f(x) and g(x) are differentiable.
+Let _F_ be a real valued function which is a composite of two functions _f_ and _g_  i.e ##### `F(x) = f(g(x))`and both f(x) and g(x) are differentiable.
 Let the derivative D{F(x)} is denoted as F'(x).
 
 By Chain Rule, 
@@ -17,7 +17,7 @@ then in Leibniz's notation Chain Rule can be rewritten as :
 
 
 
-#### Example 1.   To compute derivative of sin(ax+b)
+### Example 1.   To compute derivative of sin(ax+b)
 
 Solution : The function can be visualized as a composite of two functions. F(x)= f(g(x))
 
@@ -38,9 +38,9 @@ OR
 We can directly apply the formula F'(x) = f'(g(x)).g'(x) = cos(ax+b) . a
 
 
-### For a function composite of more than two function :
+## For a function composite of more than two function :
 
-Let _F_ be a real valued function which is a composite of four functions _r s t u_  i.e `F(x)=r(s(t(u(x))))` and all the functions _r(x) s(x) t(x) u(x)_ are differentiable.
+Let _F_ be a real valued function which is a composite of four functions _r s t u_  i.e ##### `F(x)=r(s(t(u(x))))` and all the functions _r(x) s(x) t(x) u(x)_ are differentiable.
 Let the derivative D{F(x)} is denoted as F'(x).
 
 By Chain Rule, 
@@ -61,7 +61,7 @@ Putting the value of eqn 2 3 4 in eqn 1, we will get :
 #### `d(F)/dx = dr/dc . ds/db . dt/da . du/dx`
 
 
-#### Example 2.   To compute derivative of sin(cos((mx+n)^3))
+### Example 2.   To compute derivative of sin(cos((mx+n)^3))
 
 Solution : The function can be visualized as a composite of four functions. F(x)= r(s(t(u(x))))
 
