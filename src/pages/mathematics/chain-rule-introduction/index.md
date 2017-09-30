@@ -30,6 +30,7 @@ d(F)/dx = df/dt . dt/dx
 => d(F)/dx = a . cost(t) = a.cos(ax+b)
 
 OR 
+
 We can directly apply the formula F'(x) = f'(g(x)).g'(x) = cos(ax+b) . a
 
 
@@ -42,9 +43,13 @@ By Chain Rule,
 #### _`F'(x) = r'(s(t(u(x)))).s'(t(u(x))).t'(u(x)).u'(x)`_
 
 Suppose, a = u(x), b = t(a), c = s(b) then F(x)=r(s(t(u(x)))) can be re-written as F(x)=r(c) 
+
 then, F(x)=r(c) => d(F)/dx = dr/dc . dc/dx                 (eqn 1)
+
 c = s(b) => dc/dx = ds/db . db/dx                          (eqn 2)
+
 b = t(a) => db/dx = dt/da . da/dx                          (eqn 3)
+
 a = u(x) => da/dx = du/dx                                  (eqn 4)
 
 Putting the value of eqn 2 3 4 in eqn 1, we will get :
@@ -65,5 +70,6 @@ d(F)/dx = dr/dc . ds/db . dt/da . du/dx
 => d(F)/dx = cos(cos((mx+n)^3)) . -sin((mx+n)^3)) . 3(mx+n)^2 . m
 
 OR 
+
 We can directly apply the formula, 
 F'(x) = r'(s(t(u(x)))).s'(t(u(x))).t'(u(x)).u'(x) = cos(cos((mx+n)^3)) . -sin((mx+n)^3)) . 3(mx+n)^2 . m
