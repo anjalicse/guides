@@ -3,13 +3,10 @@ title: Chain Rule Introduction
 ---
 ## Chain Rule Introduction
 
-This is a stub. <a href='https://github.com/freecodecamp/guides/tree/master/src/pages/mathematics/chain-rule-introduction/index.md' target='_blank' rel='nofollow'>Help our community expand it</a>.
+`Chain Rule is used to compute derivative of a composition of functions.`
 
-<a href='https://github.com/freecodecamp/guides/blob/master/README.md' target='_blank' rel='nofollow'>This quick style guide will help ensure your pull request gets accepted</a>.
+Let _F_ be a real valued function which is a composite of two functions _u_ and _v_  i.e F(x) = v(u(x)).
+Let the derivative D{F(x)} is denoted as F'(x).
 
-<!-- The article goes here, in GitHub-flavored Markdown. Feel free to add YouTube videos, images, and CodePen/JSBin embeds  -->
-
-#### More Information:
-<!-- Please add any articles you think might be helpful to read before writing the article -->
-
-
+By Chain Rule, 
+ ### `_F'(x) = u'(v(x)).v'(x)_`
