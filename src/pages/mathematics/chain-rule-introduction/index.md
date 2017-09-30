@@ -20,13 +20,17 @@ then in Leibniz's notation Chain Rule can be rewritten as :
 #### Example 1.   To compute derivative of sin(ax+b)
 
 Solution : The function can be visualized as a composite of two functions. F(x)= f(g(x))
+
 t= g(x)= ax+b  and f(t)=sin(t)
 
 f(t)=sin(t) => df/dt = cos(t)
+
 t= g(x) = ax+b => dt/dx = a
 
 Now by Chain Rule: 
+
 d(F)/dx = df/dt . dt/dx
+
 => d(F)/dx = a . cost(t) = a.cos(ax+b)
 
 OR 
@@ -60,16 +64,22 @@ Putting the value of eqn 2 3 4 in eqn 1, we will get :
 #### Example 2.   To compute derivative of sin(cos((mx+n)^3))
 
 Solution : The function can be visualized as a composite of four functions. F(x)= r(s(t(u(x))))
+
 where a = u(x) = mx+n
+
 b = t(a) = a^3 
+
 c = s(b) = cos(b) then F(x)=r(s(t(u(x)))) can be re-written as F(x)= r(c) =sin(c) 
 
 Now, By chain rule :
 d(F)/dx = dr/dc . ds/db . dt/da . du/dx
+
 => d(F)/dx = cos(c) . -sin(b) . 3a^2 . m
+
 => d(F)/dx = cos(cos((mx+n)^3)) . -sin((mx+n)^3)) . 3(mx+n)^2 . m
 
 OR 
 
 We can directly apply the formula, 
+
 F'(x) = r'(s(t(u(x)))).s'(t(u(x))).t'(u(x)).u'(x) = cos(cos((mx+n)^3)) . -sin((mx+n)^3)) . 3(mx+n)^2 . m
