@@ -5,7 +5,7 @@ title: Chain Rule Introduction
 
 `Chain Rule is used to compute derivative of a composition of functions.`
 
-Let _F_ be a real valued function which is a composite of two functions _f_ and _g_  i.e ##### `F(x) = f(g(x))`and both f(x) and g(x) are differentiable.
+Let _F_ be a real valued function which is a composite of two functions _f_ and _g_  i.e. `F(x) = f(g(x))`and both f(x) and g(x) are differentiable.
 Let the derivative D{F(x)} is denoted as F'(x).
 
 By Chain Rule, 
@@ -40,7 +40,7 @@ We can directly apply the formula F'(x) = f'(g(x)).g'(x) = cos(ax+b) . a
 
 ## For a function composite of more than two function :
 
-Let _F_ be a real valued function which is a composite of four functions _r s t u_  i.e ##### `F(x)=r(s(t(u(x))))` and all the functions _r(x) s(x) t(x) u(x)_ are differentiable.
+Let _F_ be a real valued function which is a composite of four functions _r s t u_  i.e. `F(x)=r(s(t(u(x))))` and all the functions _r(x) s(x) t(x) u(x)_ are differentiable.
 Let the derivative D{F(x)} is denoted as F'(x).
 
 By Chain Rule, 
