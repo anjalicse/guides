@@ -4,7 +4,7 @@ title: Equation of a Line
 # Equation of a Line
 
 
-### For a given slope and y-intercept:
+### For a given slope and y-intercept (Standard Form):
 
 Let 'm' be the slope of the line and 'b' be the y-intercept i.e. the point at which the given line crosses y-axis.Then,
 
@@ -14,7 +14,7 @@ Equation of a line is given as:
 
 
 
-### For a given slope and point through which it passes:
+### For a given slope and point through which it passes (Point-Slope Form):
 
 Let 'm' be the slope of the line and (x1,y1) be the co-ordinate of point through which the given line passes.Then,
 
