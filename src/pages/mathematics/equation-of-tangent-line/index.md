@@ -19,10 +19,15 @@ To find the equation of tangent line to a curve at point x=x0, we need to find t
 #### Example : To find the equation of tangent line to the curve f(x) = 4x^2-4x+1 at x=1
 Solution: 
 f(x) = 4x^2-4x+1
+
 Step 1 : f'(x) = 8x-4
+
 Step 2 : m = f'(2) = 8.2-4 = 12
+
 Step 3 : y0= f(x0) = f(2) = 4.2^2-4.2+1 = 16-8+1 = 9
+
 Step 4 : m=12 ;  (x0,y0)=(2,9)
+
 Therefore, equation of tangent line is : 
 (y-y0)=m.(x-x0)
 
